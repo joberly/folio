@@ -1,5 +1,7 @@
 # folio
 
+**Retiring this idea in favor of [Photoprism](https://photoprism.org).**
+
 [![Build Status](https://travis-ci.org/joberly/folio.svg?branch=master)](https://travis-ci.org/joberly/folio) [![codecov](https://codecov.io/gh/joberly/folio/branch/master/graph/badge.svg)](https://codecov.io/gh/joberly/folio)
 
 Photography portfolio site server and generator utilities.
